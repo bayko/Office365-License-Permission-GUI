@@ -1,5 +1,6 @@
 # Office365 License and Permission Reporting GUI
-A pure powershell GUI for querying and exporting tenant information not available in Web UI: 
+A pure PowerShell GUI for easily querying or exporting tenant permissions and licensing information not available from the Web UI
+
 
   - Export CSV list of assigned 365 licenses
   - Export CSV list of delegated mailbox permissions
