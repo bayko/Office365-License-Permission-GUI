@@ -13,9 +13,5 @@ Individual Users:
   - List all of their group memberhips
 
 
-![Screenshot](licensingscreenshot.png)
-![Screenshot](permissionsscreenshot.png)
-
-![Screenshot](licensingcsv.png)
-![Screenshot](mailboxcsv.png)
-![Screenshot](calendarcsv.png)
+![Screenshot](Screenshots/licensing_gui.jpg)
+![Screenshot](Screenshots/permissions_gui.jpg)
