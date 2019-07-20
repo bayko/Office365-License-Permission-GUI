@@ -13,5 +13,5 @@ Individual Users:
   - List all of their group memberhips
 
 
-![Screenshot](https://github.com/bayko/Office365-License-Permission-GUI/raw/master/Screenshots/licensing_gui.JPG)
 ![Screenshot](https://github.com/bayko/Office365-License-Permission-GUI/raw/master/Screenshots/permissions_gui.JPG)
+![Screenshot](https://github.com/bayko/Office365-License-Permission-GUI/raw/master/Screenshots/licensing_gui.JPG)
